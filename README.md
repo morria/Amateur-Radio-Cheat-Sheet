@@ -1,6 +1,8 @@
 # Amateur Radio Cheat Sheet
 
-The [Amateur Radio Cheat Sheet]() contains references that will be helpful to new amateur radio operators.
+The [Amateur Radio Cheat Sheet](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/download/0.1/Amateur.Radio.Cheat.Sheet.Booklet.pdf) contains references that will be helpful to new amateur radio operators.
+
+The cheat sheet is intended to be printed in booklet format which is available via [Amateur Radio Cheat Sheet - Booklet.pdf](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/download/0.1/Amateur.Radio.Cheat.Sheet.Booklet.pdf).
 
 
 ## References
