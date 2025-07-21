@@ -2,7 +2,7 @@
 
 The [Amateur Radio Cheat Sheet](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/latest/download/Amateur.Radio.Cheat.Sheet.pdf) contains references that will be helpful to new amateur radio operators.
 
-The cheat sheet is intended to be printed in booklet format which is available via [Amateur Radio Cheat Sheet - Booklet.pdf](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/latest/download/Amateur.Radio.Cheat.Sheet.Booklet.pdf).
+The cheat sheet is intended to be printed in booklet format which is available via [Amateur Radio Cheat Sheet - Booklet.pdf](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/latest/download/Amateur.Radio.Cheat.Sheet.Booklet.pdf). You may also wish to use the [color version](https://github.com/morria/Amateur-Radio-Cheat-Sheet/releases/latest/download/Amateur.Radio.Cheat.Sheet.-.Color.pdf).
 
 
 ## References
